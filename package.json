@@ -1,0 +1,24 @@
+{
+	"name": "learning-typescript-design-patterns",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "tsc --build"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/zhaoyanxzy/learning-typescript-design-patterns.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/zhaoyanxzy/learning-typescript-design-patterns/issues"
+	},
+	"homepage": "https://github.com/zhaoyanxzy/learning-typescript-design-patterns#readme",
+	"devDependencies": {
+		"tslint": "^6.1.2",
+		"typescript": "^3.9.3"
+	}
+}

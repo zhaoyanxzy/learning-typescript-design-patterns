@@ -1,0 +1,2 @@
+- Deals with class and object composition
+- Focuses on decoupling interface and implementation of classes and its objects

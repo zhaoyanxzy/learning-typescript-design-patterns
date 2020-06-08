@@ -1,0 +1,2 @@
+- Deals with object creation and initialisation
+- Pattern gives more flexibility in deciding which objects need to be created for a given case
