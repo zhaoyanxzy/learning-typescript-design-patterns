@@ -1,0 +1,2 @@
+- Use the Strategy pattern when a class will have one behaviour is similar to other behaviours
+- Strategy pattern also allows behaviours to be changed dynamically
